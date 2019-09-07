@@ -1,0 +1,6 @@
+This file was an exception
+Rules:
+.gitignore
+/forder-for-ignore
+*.log
+!important-file.log
